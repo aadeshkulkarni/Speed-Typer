@@ -20,11 +20,14 @@ const words=[
     'ghanta',
     'rapchaandus',
     'schadenfreude',
+    'aadesh',
     'solace',
     'waat lag gayi',
     'nirvana',
     'shrodinger',
+    'quidditch',
     'chyamaayla',
+    'centaurs',
     'gilli gilli wush',
     'macha',
     'bumfuzzle',
@@ -33,13 +36,15 @@ const words=[
     'gardyloo',
     'chiggy wiggy',
     'taradiddle',
+    'muggle',
     'snickersnee',
     'collywobbles',
     'arararare',
     'naadaan parindey',
     'fataang',
+    'poltergeist',
     'fatte',
-    'palang tod'
+    'palang todd'
 ];
 
 // Init word
